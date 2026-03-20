@@ -1,3 +1,5 @@
+"use client";
+
 export default function IndustrialLinecardLandingPage() {
   const getFaviconUrl = (website) => {
     try {
